@@ -13,30 +13,31 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazyneil&theme=dark" alt="lazyneil" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/babel-F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=white" alt="babel logo" />
-<img src="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" alt="blender logo" />
-<img src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
-<img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo" />
-<img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express logo" />
-<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git logo" />
-<img src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="graphql logo" />
-<img src="https://img.shields.io/badge/heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="heroku logo" />
-<img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript logo" />
-<img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux logo" />
-<img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb logo" />
-<img src="https://img.shields.io/badge/materialize-757575.svg?&style=for-the-badge&logo=materialize&logoColor=white" alt="materialize logo" />
-<img src="https://img.shields.io/badge/mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white" alt="mocha logo" />
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
-<img src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" alt="nginx logo" />
-<img src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodejs&logoColor=white" alt="nodejs logo" />
-<img src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=photoshop&logoColor=white" alt="photoshop logo" />
-<img src="https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="postman logo" />
-<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react logo" />
-<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="redux logo" />
-<img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="sass logo" />
-<img src="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite logo" />
-<img src="https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwind&logoColor=white" alt="tailwind logo" />
-<img src="https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuejs&logoColor=white" alt="vuejs logo" />
-<img src="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="webpack logo" />
+
+![babel](https://img.shields.io/badge/babel-F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=white)
+![blender](https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
+![heroku](https://img.shields.io/badge/heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
+![materialize](https://img.shields.io/badge/materialize-757575.svg?&style=for-the-badge&logo=materialize&logoColor=white)
+![mocha](https://img.shields.io/badge/mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodejs&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=photoshop&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwind&logoColor=white)
+![vuejs](https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuejs&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)

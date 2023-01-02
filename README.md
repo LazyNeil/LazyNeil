@@ -1,8 +1,7 @@
 <h1>Hello there! I'm Jonathan Carol </h1>
 <h3>I'm a lazy but passionate fullstack developer from Argentina who enjoy learning new things and help others with my little understanding of the IT world.</h3>
 
-🔭 I’m currently working on my profile and portfolio, this is a relatively new github profile.
-
+🔭 I’m currently working on a isometric game (alpha version).
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazyneil&show_icons=true&locale=en&layout=compact" alt="lazyneil" /></p>
 
 <!--

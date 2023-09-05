@@ -21,11 +21,12 @@
 
 <h3 align="left">📖 Currently learning:</h3>
 
-![Figma](https://img.shields.io/badge/laravel-F55247.svg?&style=for-the-badge&logo=laravel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-002355.svg?&style=for-the-badge&logo=powershell&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 
+![Figma](https://img.shields.io/badge/laravel-F55247.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)

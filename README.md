@@ -38,5 +38,5 @@
 ![sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwind&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/vs%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Emacs](https://img.shields.io/badge/emacs-472690.svg?&style=for-the-badge&logo=gnuemacs&logoColor=white)
 

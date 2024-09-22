@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Jonathan Carol </h1>
+<h1>Hello there! I'm Jhonatan Abdala </h1>
 <h3>I'm a lazy but passionate fullstack developer from Argentina who enjoy learning new things and help others with my little understanding of the IT world.</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazyneil&show_icons=true&locale=en&layout=compact" alt="lazyneil" /></p>
 
@@ -7,7 +7,7 @@
  -->
 
 <h3 align="left">Lets get in touch:</h3>
-<a href="https://linkedin.com/in/jonathan-carol" target="blank">
+<a href="https://linkedin.com/in/jhonatan-abdala" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 
 <h3 align="left">Follow my work and progress:</h3>

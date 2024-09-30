@@ -19,10 +19,6 @@
 <img src="https://simpleicons.org/icons/freecodecamp.svg" alt="Free code camp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📖 Currently learning:</h3>
-
-![Powershell](https://img.shields.io/badge/powershell-002355.svg?&style=for-the-badge&logo=powershell&logoColor=white)
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Figma](https://img.shields.io/badge/laravel-F55247.svg?&style=for-the-badge&logo=laravel&logoColor=white)
@@ -39,4 +35,5 @@
 ![tailwind](https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwind&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/vs%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Emacs](https://img.shields.io/badge/emacs-472690.svg?&style=for-the-badge&logo=gnuemacs&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-002355.svg?&style=for-the-badge&logo=powershell&logoColor=white)
 
